@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import streamlit_authenticator as stauth
 
 
 names = ['Mehul Purohit','Arogya gallela']
