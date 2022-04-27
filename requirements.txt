@@ -1,5 +1,5 @@
 snowflake-connector-python==2.7.0
-sqlite3==3.8
+
 matplotlib
 streamlit
 numpy==1.18.5
